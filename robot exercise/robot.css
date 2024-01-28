@@ -1,0 +1,59 @@
+img{
+  width: 100px;
+}
+
+.container{
+width: 90%;
+  aspect-ratio: 1/3;
+  border: 2px solid green;
+  position: relative;
+}
+
+.container img{
+  position: absolute;
+}
+
+#face{
+  width: 400px;
+  padding-top: 40px;
+}
+
+#eyes1{
+padding-left: 150px;
+padding-top: 200px;
+}
+
+#mouth2{
+left: 150px;
+top: 340px;
+}
+
+#nose1{
+left: 150px;
+top: 230px;
+height: 100px;
+}
+
+#ears2{
+left: 5px;
+top: 200px;
+width: 400px;
+}
+
+#hair1{
+padding-left: 60px;
+padding-top: -15px;
+width: 300px;
+}
+
+#hat{
+  padding-left: 100px;
+  width: 200px;
+  height: 150px;
+}
+
+#moustache{
+  top: 290px;
+  left: 120px;
+  width: 150px;
+}
